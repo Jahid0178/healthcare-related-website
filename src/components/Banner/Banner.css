@@ -1,0 +1,20 @@
+.home-container {
+  width: 100%;
+}
+
+.carousel-container {
+  width: 100%;
+}
+
+.img {
+  height: 95vh;
+  object-fit: cover;
+}
+
+.short-text {
+  color: #F36100;
+}
+
+.carousel-heading {
+  font-size: 80px;
+}
